@@ -3,7 +3,7 @@
 # ============================================================
 
 # Telegram Bot Token (from @BotFather)
-BOT_TOKEN = "8690061817:AAHl73PLbjwBV2hkE37seE6aE_YV7uzuz8A"
+BOT_TOKEN = "8968688748:AAHYWu9LK-gwAmcYbmoCvgmJyUMRt6IpPRk"
 
 # No default Firebase — each user adds their own via the bot
 
@@ -12,11 +12,11 @@ DEFAULT_SMS_DELAY = 2.0
 
 # Admin Telegram IDs — these users get access to Admin Panel
 # Example: [123456789, 987654321]
-ADMIN_IDS = [7606730935]
+ADMIN_IDS = [5989102250]
 
 # Authorized User IDs — empty list = allow everyone
 # Example: [123456789] = only this user can use the bot
-AUTHORIZED_USERS = []
+AUTHORIZED_USERS = [5989102250]
 
 # Max targets per campaign
 MAX_TARGETS_PER_CAMPAIGN = 10000
